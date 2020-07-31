@@ -1,0 +1,18 @@
+#EXTM3U 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2016/02/globorj.png" group-title="ABERTO", globo rio HD
+https://live.netcanais.com/GLOBORJ/video.m3u8?token=bbd6d7e0c897b522003b4ed11782a9fb&expires=1596210113&ip=200.159.35.66
+
+#EXTINF:-1 tvg-logo="https://tvaovivoagora.com/wp-content/uploads/2019/09/Assistir-TV-Globo-SP-Rede-Globo-Ao-Vivo.png" group-title="ABERTO", globo HD
+https://live.netcanais.com/GloboSP/video.m3u8?token=ec52591fe0bce764e30be8e6e022f6b7&expires=1596166355&ip=45.168.31.124
+
+
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Ctj1w022X8o/V46T65nb_CI/AAAAAAAAkKM/8VjGhia7L7EE9bccoCQitOJMNTAgz-tqQCLcB/s1600/sportv-premiere.jpg" group-title="ABERTO", premier HD
+https://live.esporteone.com/PREMIERECLUBES/video.m3u8?token=152bd7d1d4a2ababe4fb4669dfe6171c&expires=1596208207&ip=201.17.156.82
+
+#EXTINF:-1 tvg-logo="http://s.glbimg.com/og/rg/f/original/2010/10/15/nova-marca-globo-news.jpg" group-title="ABERTO", GLOBO NEWS
+https://live.netcanais.com/GLOBONEWS/video.m3u8?token=dc1776edfc3058852d5dcac73e94b7e6&expires=1596207949&ip=187.22.185.244
