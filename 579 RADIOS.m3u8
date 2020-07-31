@@ -1,0 +1,1159 @@
+#EXTM3U
+#EXTINF:-1 ,(Capital 95.8)
+http://media-ice.musicradio.com:80/CapitalMP3
+#EXTINF:-1 ,(Classic FM)
+http://media-ice.musicradio.com/ClassicFM
+#EXTINF:-1 ,(Heart 106.2 London)
+http://media-ice.musicradio.com/HeartLondon
+#EXTINF:-1 ,(LBC 97.3)
+http://media-ice.musicradio.com/LBC973
+#EXTINF:-1 group-title="MUSICAL" tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png",1.FM - Love Classics
+http://strm112.1.fm/loveclassics_mobile_mp3
+#EXTINF:-1 ,1HITS90s
+http://streaming211.radionomy.com:80/1HITS90s
+#EXTINF:-1 ,25 LAT RMF FM
+http://80.48.65.99:8000/20LAT
+#EXTINF:-1 ,90
+http://streaming211.radionomy.com:80/OldHits-60-70-80-90
+#EXTINF:-1 ,90’s Alternative
+http://uplink.duplexfx.com:8052/
+#EXTINF:-1 ,90’s Country
+http://uplink.duplexfx.com:8050/
+#EXTINF:-1 ,96.4
+http://stream.radio1.hu:8000/mid.mp3
+#EXTINF:-1 ,Aktív Rádió Szolnok
+http://www.aktivradio.hu:8000/aktiv.mp3
+#EXTINF:-1 group-title="MUSICAL" tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png",Alpha SP
+https://ice.fabricahost.com.br/alphafm1017?compat=1
+#EXTINF:-1 ,ALTIN SARKILAR
+http://37.247.98.8/stream/25/
+#EXTINF:-1 ,ANKARA HAVALARI
+http://37.247.98.8/stream/30/
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Anos 70
+http://192.99.150.31:8241/stream
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Anos 80
+http://192.99.150.31:8697/stream
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Anos 90
+http://192.99.150.31:8056/stream
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RDP1AC",Antena 1 Açores 🎧
+http://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RDP1F",Antena 1 Fado 🎧
+http://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RDP1L",Antena 1 Lusitânia 🎧
+http://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RDP1MD",Antena 1 Madeira 🎧
+http://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RDP1M",Antena 1 Memória 🎧
+http://streaming-live.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RDP1V",Antena 1 Vida 🎧
+http://streaming-live.rtp.pt/liveradio/vida80a/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RDP1",Antena 1 🎧
+http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RDP2J",Antena 2 Jazzin’ 🎧
+http://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RDP2O",Antena 2 Ópera 🎧
+http://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RDP2",Antena 2 🎧
+http://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RDP3MD",Antena 3 Madeira 🎧
+http://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RDP3",Antena 3 🎧
+http://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 ,ANTENNE BAYERN 80er Kulthits
+http://mp3channels.webradio.de:80/80er-kulthits
+#EXTINF:-1 ,ANTENNE BAYERN 90er Hits
+http://mp3channels.webradio.de:80/90er-hits
+#EXTINF:-1 ,ANTENNE BAYERN Black Beatz
+http://mp3channels.webradio.de:80/black-beatz
+#EXTINF:-1 ,ANTENNE BAYERN Chillout
+http://mp3channels.webradio.de:80/chillout
+#EXTINF:-1 ,ANTENNE BAYERN Classic Rock Live
+http://mp3channels.webradio.de:80/classic-rock-live
+#EXTINF:-1 ,ANTENNE BAYERN Event
+http://mp3channels.webradio.de:80/event
+#EXTINF:-1 ,ANTENNE BAYERN Fresh
+http://mp3channels.webradio.de:80/fresh
+#EXTINF:-1 ,ANTENNE BAYERN Hitmix
+http://mp3channels.webradio.de:80/hitmix
+#EXTINF:-1 ,ANTENNE BAYERN Hits fuer Kids
+http://mp3channels.webradio.de:80/hits-fuer-kids
+#EXTINF:-1 ,ANTENNE BAYERN Oldies but Goldies
+http://mp3channels.webradio.de:80/oldies-but-goldies
+#EXTINF:-1 ,ANTENNE BAYERN Top 40
+http://mp3channels.webradio.de:80/top-40
+#EXTINF:-1 ,ANTENNE BAYERN Weihnachts Hits
+http://mp3channels.webradio.de:80/weihnachts-hits
+#EXTINF:-1 ,ANTENNE BAYERN Workout Hits
+http://mp3channels.webradio.de:80/workout-hits
+#EXTINF:-1 ,At Work 104 - Your All Day Office Music Station! - A Station
+http://hestia2.cdnstream.com:80/1067_64
+#EXTINF:-1 ,At Work 104 - Your All Day Office Music Station! - A Station
+http://hestia2.cdnstream.com:80/1067_128
+#EXTINF:-1 ,Awesome 80’s
+http://uplink.duplexfx.com:8000/
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Axé
+http://192.99.150.31:8305/stream
+#EXTINF:-1 ,Bartók
+http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3
+#EXTINF:-1 ,Beatles
+http://uplink.duplexfx.com:8062/
+#EXTINF:-1 ,Best FM Debrecen
+http://stream1.webthings.hu:8000/fm95-x-128.mp3
+#EXTINF:-1 ,BEST OF RMFON
+http://80.48.65.99:8000/BESTOFRMFON
+#EXTINF:-1 ,Best80dance
+http://streaming211.radionomy.com:80/best80dance
+#EXTINF:-1 group-title="Radios" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfhctHpdWrnU-xJDtqQc-FQiPiBl1qfxgoSTjOBBvBSa7GUjHbCKdBLNC4g",BH FM
+https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-1 group-title="Radios" tvg-logo="https://public-rf-upload.minhawebradio.net/650/mobileicon/ef3072346f4c1255e2a9e03d87a7a86f.png",BIGMIX
+https://servidor39-1.brlogic.com:8130/live
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Brega
+http://192.99.150.31:9007/stream
+#EXTINF:-1 ,Channel 1
+http://sc-classrock.1.fm:8200/
+#EXTINF:-1 ,Channel 1
+http://stream.klassikradio.de/newclassics/mp3-128/www.klassikradio.de/
+#EXTINF:-1 ,Channel 10
+http://relay5.181.fm:8064
+#EXTINF:-1 ,Channel 10
+http://stream.klassikradio.de/lounge/mp3-128/www.klassikradio.de/
+#EXTINF:-1 ,Channel 11
+http://stream.klassikradio.de/hits/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 12
+http://stream.klassikradio.de/klassikrock/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 13
+http://stream.klassikradio.de/jmjarre/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 14
+http://www.antenne.de/webradio/channels/classic-rock-live.m3u
+#EXTINF:-1 ,Channel 14
+http://stream.klassikradio.de/opera/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 15
+http://webradio.antennevorarlberg.at/classicrock.m3u
+#EXTINF:-1 ,Channel 15
+http://stream.klassikradio.de/brazil/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 16
+http://stream.klassikradio.de/smooth/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 17
+http://www.getreadytorockradio.com/player/playlist.ram
+#EXTINF:-1 ,Channel 17
+http://stream.klassikradio.de/barock/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 18
+http://stream.klassikradio.de/nature/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 19
+http://stream.klassikradio.de/dreams/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 2
+http://stream.klassikradio.de/musical/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 20
+http://stream.klassikradio.de/piano/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 21
+http://www.munichshardesthits.com/ondem/mp3_high.pls
+#EXTINF:-1 ,Channel 21
+http://stream.klassikradio.de/lounge-beat/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 22
+http://stream.klassikradio.de/tillbroenner/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 23
+http://stream.klassikradio.de/live/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 24
+http://streams.radiobob.de/bob-live/mp3-128/radiosure/RADIO
+#EXTINF:-1 ,Channel 24
+http://stream.klassikradio.de/schiller/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 25
+http://streams.radiobob.de/bob-classicrock/mp3-128/radiosure/RADIO
+#EXTINF:-1 ,Channel 25
+http://stream.klassikradio.de/christmas/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 26
+http://stream.klassikradio.de/chor/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 27
+http://www.miastomuzyki.pl/n/rmfclassicrock.pls
+#EXTINF:-1 ,Channel 27
+http://stream.klassikradio.de/legenden/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 28
+http://stream.klassikradio.de/healing/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 29
+http://www.miastomuzyki.pl/n/rmfqueen.pls
+#EXTINF:-1 ,Channel 29
+http://stream.klassikradio.de/friendshome/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 3
+http://stream.klassikradio.de/rockclassic/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 30
+http://www.rockantenne.de/webradio/channels/rockantennelocal01.m3u
+#EXTINF:-1 ,Channel 30
+http://stream.klassikradio.de/orgel/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 31
+http://www.rockantenne.de/webradio/channels/heavy-metal.m3u
+#EXTINF:-1 ,Channel 31
+http://stream.klassikradio.de/anneclark/aac-64/stream.klassikradio.de/
+#EXTINF:-1 ,Channel 32
+http://www.rockantenne.de/webradio/channels/soft-rock.m3u
+#EXTINF:-1 ,Channel 32
+http://streaming.hotmix-radio.net/hotmixradio-rock-48.aac
+#EXTINF:-1 ,Channel 33
+http://streaming.hotmix-radio.net/hotmixradio-80-48.aac
+#EXTINF:-1 ,Channel 34
+http://streaming.hotmix-radio.net/hotmixradio-90-48.aac
+#EXTINF:-1 ,Channel 35
+http://64.71.133.122:8000/listen.pls
+#EXTINF:-1 ,Channel 35
+http://streaming.hotmix-radio.net/hotmixradio-vip-48.aac
+#EXTINF:-1 ,Channel 36
+http://www.starfm.de/streams/rc_m.pls
+#EXTINF:-1 ,Channel 36
+http://streaming.hotmix-radio.net/hotmixradio-japan-48.aac
+#EXTINF:-1 ,Channel 37
+http://streaming.hotmixradio.fm/hotmixradio-game-48.aac
+#EXTINF:-1 ,Channel 38
+http://streaming.hotmixradio.fm/hotmixradio-golds-48.aac
+#EXTINF:-1 ,Channel 39
+http://streaming.hotmixradio.fm/hotmixradio-lounge-48.aac
+#EXTINF:-1 ,Channel 4
+http://stream.klassikradio.de/mozart/mp3-128/www.klassikradio.de/
+#EXTINF:-1 ,Channel 44
+http://212.26.146.50:8000/classicrock.mp3
+#EXTINF:-1 ,Channel 45
+http://212.26.146.50:8000/classic.mp3
+#EXTINF:-1 ,Channel 46
+http://212.26.146.50:8000/rock.mp3
+#EXTINF:-1 ,Channel 47
+http://212.26.146.50:8000/roll1.mp3
+#EXTINF:-1 ,Channel 48
+http://212.26.146.50:8000/jazz.mp3
+#EXTINF:-1 ,Channel 49
+http://212.26.146.50:8000/blues.mp3
+#EXTINF:-1 ,Channel 5
+http://stream.klassikradio.de/verdi/mp3-128/www.klassikradio.de/
+#EXTINF:-1 ,Channel 50
+http://195.91.237.50:8000/music64
+#EXTINF:-1 ,Channel 51
+http://212.26.146.50:8000/retro1.mp3
+#EXTINF:-1 ,Channel 59
+http://broad1.imagineradio.ru:8000/light_stream256.mp3
+#EXTINF:-1 ,Channel 6
+http://relay3.181.fm:8014
+#EXTINF:-1 ,Channel 6
+http://stream.klassikradio.de/beethoven/mp3-128/www.klassikradio.de/
+#EXTINF:-1 ,Channel 60
+http://82.146.35.241:8000/soul
+#EXTINF:-1 ,Channel 62
+http://82.146.35.241:8000/instr
+#EXTINF:-1 ,Channel 65
+http://212.26.146.50:8000/acdc.mp3
+#EXTINF:-1 ,Channel 66
+http://media-ice.musicradio.com/GoldMP3
+#EXTINF:-1 ,Channel 69
+http://212.83.138.48:8223/stream
+#EXTINF:-1 ,Channel 7
+http://relay2.181.fm:8100
+#EXTINF:-1 ,Channel 7
+http://stream.klassikradio.de/purebach/mp3-128/www.klassikradio.de/
+#EXTINF:-1 ,Channel 8
+http://relay.181.fm:8008
+#EXTINF:-1 ,Channel 8
+http://stream.klassikradio.de/movie/mp3-128/www.klassikradio.de/
+#EXTINF:-1 ,Channel 9
+http://relay5.181.fm:10002
+#EXTINF:-1 ,Channel 9
+http://stream.klassikradio.de/games/mp3-128/www.klassikradio.de/
+#EXTINF:-1 ,Christmas104 - Your Favorite Holiday Hits! - A Station
+http://hestia2.cdnstream.com:80/1077_128
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=CIDFM",Cidade FM 🎧
+http://mcrwowza6.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=CIDHH",Cidade Hip Hop 🎧
+http://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
+#EXTINF:-1 ,Classic 21 (RTBF)
+https://radios.rtbf.be/classic21-64.aac
+#EXTINF:-1 ,Classic 21 60's (RTBF)
+https://radios.rtbf.be/wr-c21-60-128.mp3
+#EXTINF:-1 ,Classic 21 70's (RTBF)
+https://radios.rtbf.be/wr-c21-70-128.mp3
+#EXTINF:-1 ,Classic 21 80's (RTBF)
+https://radios.rtbf.be/wr-c21-80-128.mp3
+#EXTINF:-1 ,Classic 21 90’s (RTBF)
+https://radios.rtbf.be/wr-c21-90-128.mp3
+#EXTINF:-1 ,Classic 21 Metal (RTBF)
+https://radios.rtbf.be/wr-c21-metal-128.mp3
+#EXTINF:-1 ,Classic 21 Reggae (RTBF)
+https://radios.rtbf.be/wr-eventradio-128.mp3
+#EXTINF:-1 ,Classic 21 Route 66 (RTBF)
+https://radios.rtbf.be/wr-c21-route66-128.mp3
+#EXTINF:-1 ,Classic 21 Soulpower
+https://radios.rtbf.be/wr-c21-soul-128.mp3
+#EXTINF:-1 ,Classic RnB from
+http://hestia2.cdnstream.com:80/1070_128
+#EXTINF:-1 group-title="Radios" tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78",Coca Cola FM
+https://str2b.openstream.co/1084
+#EXTINF:-1 ,Comedy104 - A Station
+http://hestia2.cdnstream.com:80/1073_64
+#EXTINF:-1 ,Cool FM
+http://mediagw.e-tiger.net/stream/cfmhq
+#EXTINF:-1 ,country
+http://rs38.stream24.net:80/ballermann-country.mp3
+#EXTINF:-1 ,Country104
+http://hestia2.cdnstream.com:80/1071_64
+#EXTINF:-1 ,Country104
+http://hestia2.cdnstream.com:80/1071_128
+#EXTINF:-1 ,Csángó Rádió
+http://94.24.49.48:7300/;stream
+#EXTINF:-1 ,D100 Radio
+http://hestia2.cdnstream.com:80/1119_128
+#EXTINF:-1 ,Dance Radio : 128k
+http://hestia.cdnstream.com:80/nsp-128k-mp3
+#EXTINF:-1 ,Dance Radio : 192k
+http://hestia.cdnstream.com:80/nsp-192k-mp3
+#EXTINF:-1 ,Dance Radio : 32k AAC+
+http://hestia.cdnstream.com:80/nsp-32k-aac
+#EXTINF:-1 ,Dance Wave!
+http://stream2.dancewave.online:8080/
+#EXTINF:-1 ,Dankó
+http://mr-stream.mediaconnect.hu/4748/mr7.mp3
+#EXTINF:-1 ,Duna World Rádió
+http://mr-stream.mediaconnect.hu/4761/dwr.mp3
+#EXTINF:-1 ,EGE HAVALARI
+http://37.247.98.8/stream/29/
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Eletrônica
+http://192.99.150.31:9095/stream
+#EXTINF:-1 group-title="Radios" tvg-logo="http://radiosatweb.com.br/images/184111d0e37ef988411217c0ed14431d.png",Estação SAT FM
+http://s32.maxcast.com.br:8022/live
+#EXTINF:-1 ,Estrella104 - The Latin Hits! - A Station
+http://hestia2.cdnstream.com:80/1072_64
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1 ,FLOW 103
+http://hestia2.cdnstream.com:80/1668_64
+#EXTINF:-1 ,FLOW 103
+http://hestia2.cdnstream.com:80/1668_128
+#EXTINF:-1 group-title="Radios" tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png",FM O DIA
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Forró
+http://192.99.150.31:9019/stream
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Funk
+http://192.99.150.31:9089/stream
+#EXTINF:-1 ,Future House
+http://air2.radiorecord.ru:805/fut_320
+#EXTINF:-1 ,Gong FM
+http://stream.gongradio.hu:8000/gong-fm.mp3
+#EXTINF:-1 ,Good Time Oldies
+http://uplink.duplexfx.com:8046/
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Gospel
+http://192.99.150.31:9101/stream
+#EXTINF:-1 ,GRA TORUŃ
+http://80.48.65.99:8000/RADIOGRA
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Hip Hop
+http://192.99.150.31:8721/stream
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Jazz
+http://192.99.150.31:8042/stream
+#EXTINF:-1 ,Jazzy Rádió
+http://94.199.183.186/jazzy.mp3
+#EXTINF:-1 ,JP
+http://musicbird.leanstream.co/JCB067-MP3
+#EXTINF:-1 ,JP: Banana FM - JCB075-MP3
+http://musicbird.leanstream.co/JCB075-MP3
+#EXTINF:-1 ,JP: Be Happy - JCB068-MP3
+http://musicbird.leanstream.co/JCB068-MP3
+#EXTINF:-1 ,JP: Chupea FM - JCB082-MP3
+http://musicbird.leanstream.co/JCB082-MP3
+#EXTINF:-1 ,JP: Come on! FM - JCB084-MP3
+http://musicbird.leanstream.co/JCB084-MP3
+#EXTINF:-1 ,JP: Hana FM - JCB069-MP3
+http://musicbird.leanstream.co/JCB069-MP3
+#EXTINF:-1 ,JP: Haro FM - JCB034-MP3
+http://musicbird.leanstream.co/JCB034-MP3
+#EXTINF:-1 ,JP: IS FM - JCB035-MP3
+http://musicbird.leanstream.co/JCB035-MP3
+#EXTINF:-1 ,JP: Kurashiki FM - JCB080-MP3
+http://musicbird.leanstream.co/JCB080-MP3
+#EXTINF:-1 ,JP: Nara FM - JCB073-MP3
+http://musicbird.leanstream.co/JCB073-MP3
+#EXTINF:-1 ,JP: Onomichi FM - JCB081-MP3
+http://musicbird.leanstream.co/JCB081-MP3
+#EXTINF:-1 ,JP: Radio MOMO - JCB079-MP3
+http://musicbird.leanstream.co/JCB079-MP3
+#EXTINF:-1 ,JP: Radio SANQ - JCB047-MP3
+http://musicbird.leanstream.co/JCB047-MP3
+#EXTINF:-1 ,JP: Takarazuka FM - JCB071-MP3
+http://musicbird.leanstream.co/JCB071-MP3
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Kids
+http://192.99.150.31:9431/stream
+#EXTINF:-1 ,KLASIK HOME
+http://37.247.98.8/stream/32/
+#EXTINF:-1 ,Klasszik Rádió
+http://94.199.183.186/klasszik.mp3
+#EXTINF:-1 ,Klubrádió
+http://stream.klubradio.hu:8080/source
+#EXTINF:-1 ,Kolozsvári Rádió
+http://89.238.227.6:8384/;stream
+#EXTINF:-1 ,KS 95.7
+http://hestia2.cdnstream.com:80/1527_128
+#EXTINF:-1 ,KURAN MEAL
+http://37.247.98.8/stream/33/
+#EXTINF:-1 ,Lite 80’s
+http://uplink.duplexfx.com:8040/
+#EXTINF:-1 ,Lite 90’s
+http://uplink.duplexfx.com:8048/
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1 ,Love Jazz Florida
+http://hestia2.cdnstream.com:80/1260_64
+#EXTINF:-1 ,Love Jazz Florida
+http://hestia2.cdnstream.com:80/1260_192
+#EXTINF:-1 ,M tv
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1 ,M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=M8060",M80 Rádio 60’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8060/m8060.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=M8070",M80 Rádio 70’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8070/m8070.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=M8080",M80 Rádio 80’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8080/m8080.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=M8090",M80 Rádio 90’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8090/m8090.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=M80BAL",M80 Rádio Ballads 🎧
+http://mcrwowza7.mcr.iol.pt/m80ballads/m80ballads.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=M80DNC",M80 Rádio Dance 🎧
+http://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=M80IND",M80 Rádio Indie 🎧
+http://mcrwowza7.mcr.iol.pt/m80indie/m80indie.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=M80POP",M80 Rádio Pop 🎧
+http://mcrwowza7.mcr.iol.pt/m80pop/m80pop.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=M80NAC",M80 Rádio Portugal 🎧
+http://mcrwowza7.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=M80RCK",M80 Rádio Rock 🎧
+http://mcrwowza7.mcr.iol.pt/m80rock/m80rock.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=M80SOL",M80 Rádio Soul 🎧
+http://mcrwowza7.mcr.iol.pt/m80soul/m80soul.stream/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=M80",M80 Rádio 🎧
+http://mcrwowza6.mcr.iol.pt/m80/smil:m80.smil/playlist.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.marcoensefm.com/wp-content/themes/marcoense-fm/images/logo.png",Marcoense FM
+http://137.74.160.250:8000/;stream/1
+#EXTINF:-1 ,Marosvásárhelyi Rádió
+http://streaming.radiomures.ro:8312/;stream
+#EXTINF:-1 ,MAZIDEN BIR DEMET
+http://37.247.98.8/stream/24/
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=MEGAHITS",Mega Hits 🎧
+http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
+#EXTINF:-1 ,MegaDance Rádió
+http://megadanceradio.hopto.org:8000/livemega.mp3
+#EXTINF:-1 ,Megamix
+http://air2.radiorecord.ru:805/mix_320
+#EXTINF:-1 ,MELANKOLIK
+http://37.247.98.8/stream/20/
+#EXTINF:-1 ,Mellow Gold
+http://uplink.duplexfx.com:8060/
+#EXTINF:-1 ,Mercy Mulatós Rádió
+http://stream.mercyradio.eu/mulatos.mp3
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1 ,Minimal/Tech
+http://air2.radiorecord.ru:805/mini_320
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",MPB
+http://192.99.150.31:8775/stream
+#EXTINF:-1 ,MR1 Kossuth Rádió
+http://icast.connectmedia.hu/4736/mr1.mp3
+#EXTINF:-1 ,MR2 Petöfi Rádió
+http://stream002.radio.hu/mr2.mp3
+#EXTINF:-1 ,Muravidéki Magyar Rádió
+http://mp3.rtvslo.si/mmr
+#EXTINF:-1 ,MUSIC TV: Company Tv
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1 ,MUSIC TV: FOX TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 ,MUSIC TV: Radio Contact Vision
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1 ,MUSIC TV: Radio Universal Tv
+http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
+#EXTINF:-1 ,MUSIC TV: RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1 ,N/A
+http://hestia2.cdnstream.com:80/1301_32
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",Nove3Cinco
+http://centova.radios.pt:9522/;
+#EXTINF:-1 ,Old School HipHop/RnB
+http://uplink.duplexfx.com:8068/
+#EXTINF:-1 ,Oldies 104 - Streaming Your Favorites! - A Station
+http://hestia2.cdnstream.com:80/1076_64
+#EXTINF:-1 ,Oldies 104 - Streaming Your Favorites! - A Station
+http://hestia2.cdnstream.com:80/1076_128
+#EXTINF:-1 ,ONE BY HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1 ,Part FM Siófok
+http://87.229.53.9:9000/;stream
+#EXTINF:-1 ,Pátria Rádió Pozsony
+http://live.slovakradio.sk:8000/Patria_128.mp3
+#EXTINF:-1 ,Pirate Station
+http://air2.radiorecord.ru:805/ps_320
+#EXTINF:-1 ,PlayTrance Radio (Main Channel 40k AAC+ HTTPS Firewall Friendly)
+https://live-ff.playtrance.com/playtrance-main.aac
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1 ,POPHOME
+http://37.247.98.8/stream/21/
+#EXTINF:-1 ,Poptarisznya Rádió
+http://adas.poptarisznya.hu:8200/live.mp3
+#EXTINF:-1 ,PsyStation - ChillOut
+http://hestia2.cdnstream.com:80/1459_64
+#EXTINF:-1 ,PsyStation - ChillOut
+http://hestia2.cdnstream.com:80/1459_128
+#EXTINF:-1 ,PsyStation - Classic Goa Psy Trance
+http://hestia2.cdnstream.com:80/1458_64
+#EXTINF:-1 ,PsyStation - Classic Goa Psy Trance
+http://hestia2.cdnstream.com:80/1458_128
+#EXTINF:-1 ,PsyStation - Dark Psy Trance
+http://hestia2.cdnstream.com:80/1457_64
+#EXTINF:-1 ,PsyStation - Dark Psy Trance
+http://hestia2.cdnstream.com:80/1457_128
+#EXTINF:-1 ,PsyStation - Dark Roots Psy Trance
+http://hestia2.cdnstream.com:80/1452_64
+#EXTINF:-1 ,PsyStation - Dark Roots Psy Trance
+http://hestia2.cdnstream.com:80/1452_128
+#EXTINF:-1 ,PsyStation - Ethnic Chill
+http://hestia2.cdnstream.com:80/1684_64
+#EXTINF:-1 ,PsyStation - Ethnic Chill
+http://hestia2.cdnstream.com:80/1684_128
+#EXTINF:-1 ,PsyStation - Forest Psy Trance
+http://hestia2.cdnstream.com:80/1456_64
+#EXTINF:-1 ,PsyStation - Full On Psy Trance
+http://hestia2.cdnstream.com:80/1455_64
+#EXTINF:-1 ,PsyStation - Full On Psy Trance
+http://hestia2.cdnstream.com:80/1455_128
+#EXTINF:-1 ,PsyStation - HI Teck Psy Trance
+http://hestia2.cdnstream.com:80/1454_64
+#EXTINF:-1 ,PsyStation - HI Teck Psy Trance
+http://hestia2.cdnstream.com:80/1454_128
+#EXTINF:-1 ,PsyStation - House
+http://hestia2.cdnstream.com:80/1685_128
+#EXTINF:-1 ,PsyStation - Minimal
+http://hestia2.cdnstream.com:80/1686_64
+#EXTINF:-1 ,PsyStation - Minimal
+http://hestia2.cdnstream.com:80/1686_128
+#EXTINF:-1 ,PsyStation - Progressive Dark Psy Trance
+http://hestia2.cdnstream.com:80/1450_64
+#EXTINF:-1 ,PsyStation - Progressive Dark Psy Trance
+http://hestia2.cdnstream.com:80/1450_128
+#EXTINF:-1 ,PsyStation - Progressive Psy Trance
+http://hestia2.cdnstream.com:80/1453_128
+#EXTINF:-1 ,PsyStation - Psy Tech
+http://hestia2.cdnstream.com:80/1567_64
+#EXTINF:-1 ,PsyStation - Psy Tech
+http://hestia2.cdnstream.com:80/1567_128
+#EXTINF:-1 ,PsyStation - SuomiSoundi Psy Trance
+http://hestia2.cdnstream.com:80/1451_64
+#EXTINF:-1 ,PsyStation - SuomiSoundi Psy Trance
+http://hestia2.cdnstream.com:80/1451_128
+#EXTINF:-1 ,PsyStation - Techno
+http://hestia2.cdnstream.com:80/1568_64
+#EXTINF:-1 ,PsyStation - Techno
+http://hestia2.cdnstream.com:80/1568_128
+#EXTINF:-1 ,PsyStation - Twilight
+http://hestia2.cdnstream.com:80/1624_64
+#EXTINF:-1 ,PsyStation - Twilight
+http://hestia2.cdnstream.com:80/1624_128
+#EXTINF:-1 ,PsyStation - Twilight
+http://hestia2.cdnstream.com:80/1623_64
+#EXTINF:-1 ,PsyStation - Twilight
+http://hestia2.cdnstream.com:80/1623_128
+#EXTINF:-1 ,Pump
+http://air2.radiorecord.ru:805/pump_320
+#EXTINF:-1 ,Rádió 88 Szeged
+http://stream.radio88.hu:8000/;stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/Ivdf27M.png",Rádio Alegria FM
+http://stream.ouveai.com.br:8061/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",Rádio Amália
+http://link.radios.pt/amalia?1487014253471.mp3
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Anos 70
+http://192.99.150.31:8241/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Anos 80
+http://192.99.150.31:8697/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Anos 90
+http://192.99.150.31:8056/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/dT8ZOeg.png",Rádio Atlântida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Axé
+http://192.99.150.31:8305/;
+#EXTINF:-1 ,Radio Black Beats FM
+http://de-hz-fal-stream05.rautemusik.fm/blackbeats
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Brega
+http://192.99.150.31:9007/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.radiocastelobranco.pt/css/site/img/logo.png",Rádio Castelo Branco
+http://centova.radio.com.pt:9462/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png",Rádio Cidade FM
+https://mcrwowza4.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png",Rádio Cidade Hip Hop
+https://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.radioclube-penafiel.pt/i/logo_radioclubepenafiel.png",Rádio Clube Penafiel
+http://centova.radios.pt:9476/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
+https://mcrwowza6.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RCDANCE",Rádio Comercial Dance 🎧
+http://mcrwowza7.mcr.iol.pt/rcdance/rcdance.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RCTUGA",Rádio Comercial Made in Portugal 🎧
+http://mcrwowza7.mcr.iol.pt/rctuga/rctuga.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RCHIT",Rádio Comercial One Hit Wonders 🎧
+http://mcrwowza7.mcr.iol.pt/rchit/rchit.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RCROCK",Rádio Comercial Rock 🎧
+http://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RCSOFT",Rádio Comercial Soft 🎧
+http://mcrwowza7.mcr.iol.pt/rcsoft/rcsoft.stream/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RCOM",Rádio Comercial 🎧
+http://mcrwowza6.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
+#EXTINF:-1 ,Rádió Eger
+http://stream.radioeger.hu:18000/;stream.mp3
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/TKZ90g5.png",Rádio Eldorado FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO EletrÃ´nica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Eletrônica
+http://192.99.150.31:9095/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO ForrÃ³
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Forró
+http://192.99.150.31:9019/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Funk
+http://192.99.150.31:9089/;
+#EXTINF:-1 ,RÁDIO GAÚCHA ZH
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Gospel
+http://192.99.150.31:9101/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF:-1 ,RADIO GRA WROCŁAW
+http://80.48.65.99:8000/RADIOGRAWROC
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://radiohertz.pt/wp-content/uploads/2015/03/Logo-R%C3%A1dio-Hertz-2015-03-261-300x117.png",Rádio Hertz
+http://213.136.92.8:8030/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Hip Hop
+http://192.99.150.31:8721/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Historinha Infantil
+http://192.99.150.31:8371/stream
+#EXTINF:-1 group-title="MUSICAL" tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png",Radio HITS
+http://stream.zeno.fm/91gxfe0gtqzuv
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Infantil
+http://192.99.150.31:8371/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Jazz
+http://192.99.150.31:8042/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Jovem Guarda
+http://192.99.150.31:8801/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/oRYDaYf.png",Rádio Jovem Pan FM
+http://centova6.ciclanohost.com.br:9256/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Kids
+http://192.99.150.31:9431/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.radiolinear.pt/img/logo.png",Rádio Linear
+http://213.136.92.8:8022/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Rádio Mega Hits
+https://21313.live.streamtheworld.com/MEGA_HITSAAC
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://cdn.nexttv.sapo.pt/user/channels/33/c5f/8623/logodf0f58d2e1b083cc1c467dc57b19130d-200x200.png",Rádio MEO Music
+http://centova.radios.pt:8495/;listen.pls
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RMSW",Rádio MEO Sudoeste 🎧
+http://centova.radios.pt/proxy/495?mp=/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/tHi5ewx.png",Rádio Monsanto
+http://centova.radio.com.pt:9424/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio MPB
+http://192.99.150.31:8775/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/ClakDxW.png",Rádio Novo Tempo FM
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://ptiptv.tk/logo?i=OBSRV",Rádio Observador 🎧
+http://centova.radios.pt/proxy/455?mp=/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://djnuno.com/wp-content/uploads/2011/05/Logo-Orbital-3D_2.png",Rádio Orbital
+http://stream.radio.com.pt:8401/;stream/1
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png",Rádio Portalegre
+http://centova.radios.pt:9492/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/I5y8DaH.png",Rádio Princesa FM
+http://noasrv.caster.fm:10124/stream
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Rap Nacional
+http://192.99.150.31:8377/;
+#EXTINF:-1 ,Radio Record
+http://air2.radiorecord.ru:805/rr_320
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Reggae
+http://192.99.150.31:8715/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.radioregionaldearouca.com/site/wp-content/uploads/2015/06/logo-radio1.png",Rádio Regional Arouca
+http://centova.radio.com.pt:8485/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrr1734952d.png",Rádio Renascença
+https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RENASC",Rádio Renascença 🎧
+http://21283.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrfm7695d64b.png",Rádio RFM
+https://21313.live.streamtheworld.com/RFMAAC
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Roberto Carlos
+http://192.99.150.31:9137/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Roberto Carlos
+http://192.99.150.31:9137/stream
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Rock Clássico
+http://192.99.150.31:9125/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO RomÃ¢nticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Românticas
+http://192.99.150.31:8962/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Sertanejo
+http://192.99.150.31:9485/;
+#EXTINF:-1 group-title="RADIOS" tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Sertanejo RomÃ¢ntico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Sertanejo Universitário
+http://192.99.150.31:9191/;
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RSIM",Rádio Sim 🎧
+http://21283.live.streamtheworld.com/RADIO_SIMAAC.aac
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Studio do Amor
+http://192.99.150.31:8962/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.terranova.pt/sites/default/files/logotipoterranova.png",Rádio Terra Nova
+http://centova.radios.pt:9404/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/O9dknve.png",Rádio Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png",Rádio TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.radiovaledominho.com/wp-content/uploads/2017/09/logo_rvm-01.png",Rádio Vale do Minho
+http://centova.radio.com.pt:9434/;
+#EXTINF:-1 group-title="Kids" tvg-logo="https://ptiptv.tk/logo?i=ZIGZAGR",Rádio ZigZag 🎧
+http://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+#EXTINF:-1 ,Rádió1 Pécs
+http://stream.radio1pecs.hu:8200/pecs.mp3
+#EXTINF:-1 ,RADIOFONIA
+http://80.48.65.99:8000/RADIOFONIA
+#EXTINF:-1 ,RadioRecord – GOA/PSY
+http://air.radiorecord.ru:805/goa_320
+#EXTINF:-1 ,RadioRecord – Gold
+http://air.radiorecord.ru:805/gold_320
+#EXTINF:-1 ,RadioRecord – Naftalin
+http://air.radiorecord.ru:805/naft_320
+#EXTINF:-1 ,RadioRecord – Rave FM
+http://air2.radiorecord.ru:805/rave_320
+#EXTINF:-1 ,RadioRecord – Tropical
+http://air.radiorecord.ru:805/trop_320
+#EXTINF:-1 ,RADYO VOKAL
+http://37.247.98.8/stream/35/
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rap Nacional
+http://192.99.150.31:8377/stream
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RDPA",RDP África 🎧
+http://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RDPI",RDP Internacional 🎧
+http://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 ,Record
+http://air2.radiorecord.ru:805/rr_128
+#EXTINF:-1 ,Record Anshlag FM
+http://air.radiorecord.ru:805/ansh_320
+#EXTINF:-1 ,Record Black (Yo! FM)
+http://air.radiorecord.ru:805/yo_320
+#EXTINF:-1 ,Record Breaks
+http://air2.radiorecord.ru:805/brks_320
+#EXTINF:-1 ,Record Breaks
+http://air.radiorecord.ru:805/brks_320
+#EXTINF:-1 ,Record Chill-Out
+http://air2.radiorecord.ru:805/chil_320
+#EXTINF:-1 ,Record Club
+http://air2.radiorecord.ru:805/club_320
+#EXTINF:-1 ,Record Dancecore
+http://air2.radiorecord.ru:805/dc_320
+#EXTINF:-1 ,Record Deep
+http://air2.radiorecord.ru:805/deep_320
+#EXTINF:-1 ,Record Dubstep
+http://air2.radiorecord.ru:805/dub_320
+#EXTINF:-1 ,Record EDM (Club)
+http://air.radiorecord.ru:805/club_320
+#EXTINF:-1 ,Record Future Bass
+http://air.radiorecord.ru:805/fbass_320
+#EXTINF:-1 ,Record Future House
+http://air.radiorecord.ru:805/fut_320
+#EXTINF:-1 ,Record Gastarbaiter FM
+http://air.radiorecord.ru:805/gast_320
+#EXTINF:-1 ,Record Hard Bass
+http://air.radiorecord.ru:805/hbass_320
+#EXTINF:-1 ,Record Hardstyle
+http://air2.radiorecord.ru:805/teo_320
+#EXTINF:-1 ,Record Hardstyle
+http://air.radiorecord.ru:805/teo_320
+#EXTINF:-1 ,Record Innocence (Ibiza)
+http://air.radiorecord.ru:805/ibiza_320
+#EXTINF:-1 ,Record Mayatnik Fuko
+http://air.radiorecord.ru:805/mf_320
+#EXTINF:-1 ,Record Old School (Pump)
+http://air.radiorecord.ru:805/pump_320
+#EXTINF:-1 ,Record Remix
+http://air.radiorecord.ru:805/rmx_320
+#EXTINF:-1 ,Record Rock
+http://air2.radiorecord.ru:805/rock_320
+#EXTINF:-1 ,Record Techno
+http://air2.radiorecord.ru:805/techno_320
+#EXTINF:-1 ,Record Trancemission
+http://air.radiorecord.ru:805/tm_320
+#EXTINF:-1 ,Record Trap
+http://air2.radiorecord.ru:805/trap_320
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Reggae
+http://192.99.150.31:8715/stream
+#EXTINF:-1 ,RELAX HOME
+http://37.247.98.8/stream/26/
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RFM80S",RFM 80’s 🎧
+http://21313.live.streamtheworld.com/GR80SRFMAAC.aac
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RFMDF",RFM Dancefloor 🎧
+http://21273.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RFMOP",RFM Oceano Pacífico 🎧
+http://21283.live.streamtheworld.com/OCEANPACIFICAAC.aac
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=RFMOTR",RFM On The Rock 🎧
+http://21313.live.streamtheworld.com/RFMONTHEROCKAAC.aac
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=RFM",RFM 🎧
+http://21313.live.streamtheworld.com/RFMAAC.aac
+#EXTINF:-1 ,RiseFM
+http://risefm1.stereoplayer.hu:8080/risefm_hq
+#EXTINF:-1 ,RMC
+http://edge.radiomontecarlo.net/RMC.mp3
+#EXTINF:-1 ,RMC Buddha Bar
+http://edge.radiomontecarlo.net/rmcweb002
+#EXTINF:-1 ,RMC Great Artist
+http://edge.radiomontecarlo.net/rmcweb007
+#EXTINF:-1 ,RMC Italia
+http://edge.radiomontecarlo.net/rmcweb005
+#EXTINF:-1 ,RMC Kay Kay
+http://edge.radiomontecarlo.net/rmcweb004
+#EXTINF:-1 ,RMC Love songs
+http://edge.radiomontecarlo.net/rmcweb006
+#EXTINF:-1 ,RMC Marine
+http://edge.radiomontecarlo.net/rmcweb010
+#EXTINF:-1 ,RMC Music Star Giorgia
+http://edge.radiomontecarlo.net/rmcweb013
+#EXTINF:-1 ,RMC New Classics
+http://edge.radiomontecarlo.net/rmcweb011
+#EXTINF:-1 ,RMC Romantic Rock
+http://edge.radiomontecarlo.net/rmcweb015
+#EXTINF:-1 ,RMC Sensual Rock
+http://edge.radiomontecarlo.net/rmcweb016
+#EXTINF:-1 ,RMF 2
+http://80.48.65.99:8000/RMF2
+#EXTINF:-1 ,RMF 2000
+http://80.48.65.99:8000/2000
+#EXTINF:-1 ,RMF 2010
+http://80.48.65.99:8000/2010
+#EXTINF:-1 ,RMF 3 POP-ROCK
+http://80.48.65.99:8000/RMF3
+#EXTINF:-1 ,RMF 4 DANCE-RNB
+http://80.48.65.99:8000/RMF4
+#EXTINF:-1 ,RMF 5 ŁAGODNE PRZEBOJE
+http://80.48.65.99:8000/RMF5
+#EXTINF:-1 ,RMF 50S
+http://80.48.65.99:8000/50S
+#EXTINF:-1 ,RMF 60S
+http://80.48.65.99:8000/60S
+#EXTINF:-1 ,RMF 70S
+http://80.48.65.99:8000/70S
+#EXTINF:-1 ,RMF 70S DISCO
+http://80.48.65.99:8000/70SDISCO
+#EXTINF:-1 ,RMF 80S
+http://80.48.65.99:8000/80S
+#EXTINF:-1 ,RMF 80S DISCO
+http://80.48.65.99:8000/80SDISCO
+#EXTINF:-1 ,RMF 90S
+http://80.48.65.99:8000/90S
+#EXTINF:-1 ,RMF 90S DANCE
+http://80.48.65.99:8000/90SDANCE
+#EXTINF:-1 ,RMF ALTERNATYWA
+http://80.48.65.99:8000/ALTERNATYWA
+#EXTINF:-1 ,RMF BABY
+http://80.48.65.99:8000/BABY
+#EXTINF:-1 ,RMF BALLADY
+http://80.48.65.99:8000/NOSTALGIA
+#EXTINF:-1 ,RMF BLUES
+http://80.48.65.99:8000/BLUES
+#EXTINF:-1 ,RMF CELTIC
+http://80.48.65.99:8000/CELTIC
+#EXTINF:-1 ,RMF CHILLOUT
+http://80.48.65.99:8000/CHILLOUT
+#EXTINF:-1 ,RMF CHOPIN
+http://80.48.65.99:8000/CHOPIN
+#EXTINF:-1 ,RMF CLUB
+http://80.48.65.99:8000/CLUB
+#EXTINF:-1 ,RMF CUBA
+http://80.48.65.99:8000/CUBA
+#EXTINF:-1 ,RMF DANCE
+http://80.48.65.99:8000/DANCE
+#EXTINF:-1 ,RMF DEPECHE MODE
+http://80.48.65.99:8000/DEPECHEMODE
+#EXTINF:-1 ,RMF DISCO
+http://80.48.65.99:8000/DISCO
+#EXTINF:-1 ,RMF FITNESS
+http://80.48.65.99:8000/FITNESS
+#EXTINF:-1 ,RMF FITNESS ROCK
+http://80.48.65.99:8000/FITNESSROCK
+#EXTINF:-1 ,RMF FM
+http://80.48.65.99:8000/RMFFM48
+#EXTINF:-1 ,RMF FRANCAIS
+http://80.48.65.99:8000/FRANCAIS
+#EXTINF:-1 ,RMF GAMEMUSIC
+http://80.48.65.99:8000/GAMEMUSIC
+#EXTINF:-1 ,RMF GOLD
+http://80.48.65.99:8000/GOLD
+#EXTINF:-1 ,RMF GROOVE
+http://80.48.65.99:8000/GROOVE
+#EXTINF:-1 ,RMF GRUNGE
+http://80.48.65.99:8000/GRUNGE
+#EXTINF:-1 ,RMF HARD-HEAVY
+http://80.48.65.99:8000/HARDHEAVY
+#EXTINF:-1 ,RMF HIP HOP
+http://80.48.65.99:8000/HIPHOP
+#EXTINF:-1 ,RMF HOT NEW
+http://80.48.65.99:8000/HOTNEW
+#EXTINF:-1 ,RMF KOLĘDY
+http://80.48.65.99:8000/KOLEDY
+#EXTINF:-1 ,RMF LADY PANK
+http://80.48.65.99:8000/LADYPANK
+#EXTINF:-1 ,RMF LATINO
+http://80.48.65.99:8000/LATINO
+#EXTINF:-1 ,RMF LOVE
+http://80.48.65.99:8000/LOVE
+#EXTINF:-1 ,RMF MAXXX HOP BĘC
+http://80.48.65.99:8000/HOPBEC
+#EXTINF:-1 ,RMF MICHAEL JACKSON
+http://80.48.65.99:8000/MICHALEJACKSON
+#EXTINF:-1 ,RMF MUZYKA FILMOWA
+http://80.48.65.99:8000/MUZYKAFILMOWA
+#EXTINF:-1 ,RMF MUZYKA KLASYCZNA
+http://80.48.65.99:8000/MUZYKAKLASYCZNA
+#EXTINF:-1 ,RMF NAJWIĘKSZE POLSKIE PRZEBOJE
+http://80.48.65.99:8000/NPPRMFON
+#EXTINF:-1 ,RMF NIEZAPOMNIANE MELODIE
+http://80.48.65.99:8000/NIEZAPOMNIANEMELODIE
+#EXTINF:-1 ,RMF PARTY
+http://80.48.65.99:8000/PARTY
+#EXTINF:-1 ,RMF PIOSENKA FILMOWA
+http://80.48.65.99:8000/PIOSENKAFILMOWA
+#EXTINF:-1 ,RMF PIOSENKA LITERACKA
+http://80.48.65.99:8000/PIOSENKALITERACKA
+#EXTINF:-1 ,RMF POBUDKA
+http://80.48.65.99:8000/POBUDKA
+#EXTINF:-1 ,RMF POLSKA PRYWATKA
+http://80.48.65.99:8000/POLSKAPRYWATKA
+#EXTINF:-1 ,RMF POLSKI HIP HOP
+http://80.48.65.99:8000/ZIOM
+#EXTINF:-1 ,RMF POLSKI ROCK
+http://80.48.65.99:8000/POLSKIROCK
+#EXTINF:-1 ,RMF POLSKIE PRZEBOJE
+http://80.48.65.99:8000/PPRZEBOJE
+#EXTINF:-1 ,RMF POPLISTA
+http://80.48.65.99:8000/POPLISTA
+#EXTINF:-1 ,RMF PRL
+http://80.48.65.99:8000/PRL
+#EXTINF:-1 ,RMF PRZEBÓJ ROKU
+http://80.48.65.99:8000/PRZEBOJROKU
+#EXTINF:-1 ,RMF QUEEN
+http://80.48.65.99:8000/QUEEN
+#EXTINF:-1 ,RMF REGGAE
+http://80.48.65.99:8000/REGGAE
+#EXTINF:-1 ,RMF RELAKS
+http://80.48.65.99:8000/RELAKS
+#EXTINF:-1 ,RMF RNB
+http://80.48.65.99:8000/RNB
+#EXTINF:-1 ,RMF ROCK
+http://80.48.65.99:8000/ROCK
+#EXTINF:-1 ,RMF ROCK PROGRESYWNY
+http://80.48.65.99:8000/ROCKPROGRESYWNY
+#EXTINF:-1 ,RMF SŁONECZNE PRZEBOJE
+http://80.48.65.99:8000/SPRZEBOJE
+#EXTINF:-1 ,RMF SMOOTH JAZZ
+http://80.48.65.99:8000/SJAZZ
+#EXTINF:-1 ,RMF STUDENCKA IMPREZA
+http://80.48.65.99:8000/STUDENCKAIMPREZA
+#EXTINF:-1 ,RMF STYL
+http://80.48.65.99:8000/STYL
+#EXTINF:-1 ,RMF ŚWIĘTA
+http://80.48.65.99:8000/SWIETA
+#EXTINF:-1 ,RMF SZANTY
+http://80.48.65.99:8000/SZANTY
+#EXTINF:-1 ,RMF TEKŚCIORY
+http://80.48.65.99:8000/TEKSCIORY
+#EXTINF:-1 ,RMF TOP 30 DANCE
+http://80.48.65.99:8000/TOP5DANCE
+#EXTINF:-1 ,RMF TOP 30 DISCO POLO
+http://80.48.65.99:8000/TOP5RNB
+#EXTINF:-1 ,RMF TOP 30 PL
+http://80.48.65.99:8000/TOP5PL
+#EXTINF:-1 ,RMF TOP 30 POP
+http://80.48.65.99:8000/TOP5POP
+#EXTINF:-1 ,RMF TOP 30 ŚWIĘTA
+http://80.48.65.99:8000/TOP30SWIETA
+#EXTINF:-1 ,RMF TOP30 ROCK
+http://80.48.65.99:8000/TOP5ROCK
+#EXTINF:-1 ,RMF TREND SOUNDS
+http://80.48.65.99:8000/TRENDSOUNDS
+#EXTINF:-1 ,RMF W PRACY
+http://80.48.65.99:8000/WPRACY
+#EXTINF:-1 ,RMFCLASSIC
+http://80.48.65.99:8000/RMFCLASSIC48
+#EXTINF:-1 ,RMFMAX
+http://80.48.65.99:8000/RMFMAXXX48
+#EXTINF:-1 ,Rock 104 Classic Rock - A Station
+http://hestia2.cdnstream.com:80/1074_64
+#EXTINF:-1 ,Rock 104 Classic Rock - A Station
+http://hestia2.cdnstream.com:80/1074_128
+#EXTINF:-1 ,ROCK ANTENNE
+http://mp3channels.webradio.de:80/rockantenne
+#EXTINF:-1 ,ROCK ANTENNE Alternative
+http://mp3channels.webradio.de:80/alternative
+#EXTINF:-1 ,ROCK ANTENNE Classic Perlen
+http://mp3channels.webradio.de:80/classic-perlen
+#EXTINF:-1 ,ROCK ANTENNE Coversongs
+http://mp3channels.webradio.de:80/coversongs
+#EXTINF:-1 ,ROCK ANTENNE Deutschrock
+http://mp3channels.webradio.de:80/deutschrock
+#EXTINF:-1 ,ROCK ANTENNE Heavy Metal
+http://mp3channels.webradio.de:80/heavy-metal
+#EXTINF:-1 ,ROCK ANTENNE Punkrock
+http://mp3channels.webradio.de:80/punkrock
+#EXTINF:-1 ,ROCK ANTENNE Soft Rock
+http://mp3channels.webradio.de:80/soft-rock
+#EXTINF:-1 ,ROCK ANTENNE Young Stars
+http://mp3channels.webradio.de:80/young-stars
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rock Clássico
+http://192.99.150.31:9125/stream
+#EXTINF:-1 ,Rock104 - Hard Rock - A Station
+http://hestia2.cdnstream.com:80/1075_64
+#EXTINF:-1 ,Russian Mix
+http://air2.radiorecord.ru:805/rus_320
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=SBSRFM",SBSR FM 🎧
+http://centova.radios.pt/proxy/435?mp=/stream
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Sertanejo
+http://192.99.150.31:9485/stream
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Sertanejo Universitário
+http://192.99.150.31:9191/stream
+#EXTINF:-1 ,SIZEER FM
+http://80.48.65.99:8000/SIZEERFM
+#EXTINF:-1 ,Sláger FM
+http://92.61.114.159:7812/slagerfm256.mp3
+#EXTINF:-1 ,SLOW HOME
+http://37.247.98.8/stream/27/
+#EXTINF:-1 ,Smooth AC
+http://uplink.duplexfx.com:8094/
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=SMOBLS",Smooth Blues 🎧
+http://mcrwowza7.mcr.iol.pt/smoblues/smoblues.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=SMOBOS",Smooth Bossa Nova 🎧
+http://mcrwowza7.mcr.iol.pt/smobossa/smobossa.stream/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ptiptv.tk/logo?i=SMOFM",Smooth FM 🎧
+http://mcrwowza6.mcr.iol.pt/smooth/smil:smooth.smil/playlist.m3u8
+#EXTINF:-1 ,Smooth Jazz Mix New York
+http://hestia2.cdnstream.com:80/1078_64
+#EXTINF:-1 ,Smooth Jazz Mix New York
+http://hestia2.cdnstream.com:80/1078_256
+#EXTINF:-1 ,Smooth Jazz Mix New York
+http://hestia2.cdnstream.com:80/1078_192
+#EXTINF:-1 ,Smooth Jazz Mix New York
+http://hestia2.cdnstream.com:80/1078_128
+#EXTINF:-1 ,Smooth Jazz Planet
+http://hestia2.cdnstream.com:80/1258_192
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=SMOJZ",Smooth Jazz 🎧
+http://mcrwowza7.mcr.iol.pt/smojazz/smojazz.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=SMOSOL",Smooth Soul 🎧
+http://mcrwowza7.mcr.iol.pt/smoothsoul/smoothsoul.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=SMOVJZ",Smooth Vocal Jazz 🎧
+http://mcrwowza7.mcr.iol.pt/smovocaljazz/smovocaljazz.stream/playlist.m3u8
+#EXTINF:-1 ,Soul
+http://uplink.duplexfx.com:8058/
+#EXTINF:-1 ,Star 104 - Today's Hottest Hit Music! - A Station
+http://hestia2.cdnstream.com:80/1068_64
+#EXTINF:-1 ,Star 104 - Today's Hottest Hit Music! - A Station
+http://hestia2.cdnstream.com:80/1068_128
+#EXTINF:-1 ,Star 90’s
+http://uplink.duplexfx.com:8012/
+#EXTINF:-1 ,Star104 - The 80s Channel
+http://hestia2.cdnstream.com:80/1069_64
+#EXTINF:-1 ,Sunshine FM Nyíregyháza
+http://195.56.193.129:8100/;stream
+#EXTINF:-1 ,Super 70s
+http://uplink.duplexfx.com:8066/
+#EXTINF:-1 ,SYMBIOSIS-SOUND
+http://80.48.65.99:8000/SYMBIOSISFM
+#EXTINF:-1 ,The Rock! (Hard Rock)
+http://uplink.duplexfx.com:8064/
+#EXTINF:-1 ,Tilos Rádió
+http://stream.tilos.hu/tilos
+#EXTINF:-1 ,TR: Acik Radyo
+http://stream.34bit.net/ar64.mp3
+#EXTINF:-1 ,TR: Best Fm Yayin
+http://37.247.100.100:80/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 ,TR: Damar Fm
+http://yayin.damarfm.com:8080/stream
+#EXTINF:-1 ,TR: Dinamo 103.8 Fm
+http://channels.dinamo.fm/legacy-mp3
+#EXTINF:-1 ,TR: Radyo Zergan
+http://rd.yayin.com.tr:4048/stream
+#EXTINF:-1 ,Trancemission
+http://air2.radiorecord.ru:805/tm_320
+#EXTINF:-1 group-title="Sound!" tvg-logo="http://i.imgur.com/MmJBR9j.png",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:-1 group-title="News" tvg-logo="https://ptiptv.tk/logo?i=TSF",TSF Rádio Notícias 🎧
+http://tsfdirecto.tsf.pt/tsfdirecto.aac
+#EXTINF:-1 ,TURKULERLE TURKIYE
+http://37.247.98.8/stream/22/
+#EXTINF:-1 ,UK top 40
+http://uplink.duplexfx.com:8070/
+#EXTINF:-1 group-title="Radios" tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300",Vagalume Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+#EXTINF:-1 group-title="Radios" tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300",Vagalume Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:-1 group-title="Radios" tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300",Vagalume Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+#EXTINF:-1 group-title="Radios" tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300",Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+#EXTINF:-1 ,Vip House
+http://air2.radiorecord.ru:805/vip_320
+#EXTINF:-1 group-title="Music" tvg-logo="https://ptiptv.tk/logo?i=VDFFM",Vodafone.FM 🎧
+http://mcrwowza6.mcr.iol.pt/vodafone/smil:vodafone.smil/playlist.m3u8
+#EXTINF:-1 ,WORLD HIT
+http://37.247.98.8/stream/34/
+#EXTINF:-1 ,Yo!FM
+http://air2.radiorecord.ru:805/yo_320
+#EXTINF:-1 ,ZENFORYOU
+http://streaming211.radionomy.com:80/ZEN-FOR-YOU
+#EXTINF:-1 ,Гоп FM
+http://air2.radiorecord.ru:805/gop_320
+#EXTINF:-1 ,Медляк FM
+http://air2.radiorecord.ru:805/mdl_320
+#EXTINF:-1 ,Радио Record Minimal/Tech
+http://air.radiorecord.ru:805/mini_128
+#EXTINF:-1 ,Радио Record Transmission
+http://air2.radiorecord.ru:805/tm_128
+#EXTINF:-1 ,Супердиско 90-х
+http://air2.radiorecord.ru:805/sd90_320
