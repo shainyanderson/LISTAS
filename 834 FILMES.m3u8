@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Classicos" tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png",#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos"  Halloween 2
 http://aranami.lhmtv.gq/filmes/Halloween-2.mp4?LHMTv
-
 #EXTINF:-1,A Era do Gelo: Especial de Natal
 https://lh3.googleusercontent.com/1OeKaUdB282dZ9hAPwfi-AgcFgmxSvqDuFwbO36RmV6vglpKZD1Xtr7XuBGmO-65Yjpom_SB8HU=m18
 #EXTINF:-1,A Escolha
@@ -48,22 +47,15 @@ https://lh3.googleusercontent.com/mMmjpC2W_p8bYJIBcu94fSggBkMbPO5f8HWROBMur8qV4l
 https://lh3.googleusercontent.com/tu9Twhxx9jqLcSeKQH9jXiHkgvWcDMuUpyXGZKTmjn7K88p-YfK1TlA9I2vX2gbfm1-jeydpuA=m18
 #EXTINF:-1,Um Novo Desafio para Callan e sua Equipe
 https://lh3.googleusercontent.com/DmA0kDy4ys4zW7Xg5XC2UgKI3_SKsqdOrTmf0JFFRDhDwq7s3scFVudKkW_xtrm_mOTErC6GLiudkw=m18
-
 ------------------------------------------------------------------------------------------------------------------------------
-
 #EXTINF:-1,JUNGLE CRUISE DUBLADO 1
 https://proxy.onicdn.com/hls/bafcbf79e275bb73d60d25857e4100a8/bafcbf79e275bb73d60d25857e4100a8.m3u8
 #EXTINF:-1,JUNGLE CRUISE DUBLADO 2
 https://lia.evosrv.com/EvoSrv/tHkZyc6LuG6GTvWQ2aDA.mp4?md5=mdnj1jlXvosSTWWleH2I9A&expires=1628145049
-
-
 #EXTINF:-1,JUNGLE CRUISE LEGENDADO 1
 https://proxy.onicdn.com/hls/2bcf6a627879ae6bc3dc66a6bd4f4382/2bcf6a627879ae6bc3dc66a6bd4f4382.m3u8
-
 #EXTINF:-1,JUNGLE CRUISE LEGENDADO 2
 https://mania.evosrv.com/EvoSrv/Y35h6Y53aLQt6o0cvpzO.mp4?md5=xRQEYq3oIU_UU2DYyIJJLg&expires=1628145452
-
-
 #EXTINF:-1,THE FAST THE FURIUS LEGENDADO 1
 https://proxy.onicdn.com/hls/a22bdf8e3558102cd88a85aa537d14f2/a22bdf8e3558102cd88a85aa537d14f2.m3u8
 
